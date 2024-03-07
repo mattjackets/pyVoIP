@@ -1,0 +1,14 @@
+{
+  "urls": [
+    ["pyVoIP/util.py", "github:mattjackets/pyVoIP/pyVoIP/util.py"],
+    ["pyVoIP/__init__.py", "github:mattjackets/pyVoIP/pyVoIP/__init__.py"],
+    ["pyVoIP/RTP.py", "github:mattjackets/pyVoIP/pyVoIP/RTP.py"],
+    ["pyVoIP/VoIP/__init__.py", "github:mattjackets/pyVoIP/pyVoIP/VoIP/__init__.py"],
+    ["pyVoIP/VoIP/status.py", "github:mattjackets/pyVoIP/pyVoIP/VoIP/status.py"],
+    ["pyVoIP/VoIP/VoIP.py", "github:mattjackets/pyVoIP/pyVoIP/VoIP/VoIP.py"],
+    ["pyVoIP/py.typed", "github:mattjackets/pyVoIP/pyVoIP/py.typed"],
+    ["pyVoIP/SIP.py", "github:mattjackets/pyVoIP/pyVoIP/SIP.py"]
+  ],
+  "deps": [],
+  "version": "dev"
+}
